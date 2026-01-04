@@ -1,0 +1,41 @@
+{
+    "workbench.colorTheme": "GitHub Light",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.preferredDarkColorTheme": "GitHub Dark",
+    "terminal.external.linuxExec": "konsole",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.fontFamily": "'ComicShannsMono Nerd Font', 'monospace', monospace",
+    "workbench.preferredLightColorTheme": "GitHub Light",
+    "window.zoomLevel": 1,
+    "[r]": {
+        "editor.tabSize": 2,
+        "editor.rulers": [80]
+    },
+    "[python]": {
+        "editor.tabSize": 4
+    },
+    "r.rterm.linux": "/usr/bin/radian",
+    "r.bracketedPaste": true,
+    "r.lsp.use_stdio": true,
+    "r.plot.useHttpgd": true,
+    "r.removeLeadingComments": true,
+    "terminal.integrated.fontFamily": "'CodeNewRoman Nerd Font', 'monospace', monospace",
+    "terminal.integrated.fontSize": 13,
+    "explorer.confirmDelete": false,
+    "latex-workshop.latex.autoBuild.run": "never",
+    "texlab.build.executable": "pdflatex",
+    "latex-workshop.intellisense.file.base": "file relative",
+    "remote.autoForwardPortsSource": "hybrid",
+    "explorer.confirmDragAndDrop": false,
+    "notebook.editorOptionsCustomizations": {
+        "editor.tabSize": 2,
+        "editor.indentSize": 2,
+        "editor.insertSpaces": true
+    },
+    "r.alwaysUseActiveTerminal": true,
+    "quarto.visualEditor.spellingDictionary": "en_GB",
+    "r.rpath.linux": "/usr/bin/R",
+    "workbench.iconTheme": "catppuccin-latte",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+ 
+}
